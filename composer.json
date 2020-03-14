@@ -1,0 +1,26 @@
+{
+  "name": "gdpr/passwordsecuritychecker",
+  "description": "PasswordSecurityChecker is a component that verifies the security of a password according to the GDPR",
+  "type": "library",
+  "keywords": ["checker", "password", "security"],
+  "homepage": "https://github.com/IAICongoCommunity/passwordsecuritychecker",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Igor GAMATH",
+      "email": "ig.gamath@gmail.com",
+      "homepage": "https://igamath.com"
+    },
+    {
+      "name": "igorcyberdyne",
+      "email": "ekolo.openeducation@gmail.com",
+      "homepage": "https://igamath.com"
+    }
+  ],
+  "require": {
+    "php": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {"PasswordSecurityChecker": "src/"}
+  }
+}
