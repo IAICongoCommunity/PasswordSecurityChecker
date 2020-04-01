@@ -64,3 +64,7 @@ Ci-dessous la mise en place du composant
  - Le code <abbr title="PHP Language">PHP</abbr> entre les `lignes 1 et 7` permet d'importer la classe PasswordSecurityChecker puis de vérifier le PWD une fois que le formulaire est validé
  - Le code <abbr title="PHP Language">PHP</abbr> à la `ligne 17` visualise uniquement les règles prédéfinies. C'est à retirer lors de la mise en PROD
  - Le code <abbr title="JavaScript Language">javascript</abbr> sur la `ligne 29` permet de charger le composant sur le champ, en passant en argument l'identifiant du champ
+
+### Illustration
+
+![](https://github.com/IAICongoCommunity/PasswordSecurityChecker/blob/master/assets/medias/gdpr.PNG)
