@@ -21,6 +21,6 @@
     "php": "^5.4"
   },
   "autoload": {
-    "psr-4": {"PasswordSecurityChecker": "src/"}
+    "psr-4": {"": "src/"}
   }
 }
